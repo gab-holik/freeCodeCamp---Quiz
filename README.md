@@ -4,4 +4,6 @@ Learning accessibility by building a Quiz [Quiz challange on freeCodeCamp](https
 
 ### Screenshot
 
+<img width="383" alt="Screenshot 2024-01-09 222435" src="https://github.com/gab-holik/freeCodeCamp---Quiz/assets/97192580/7ded6fca-79e6-4b78-a3ef-6e5638ef3d9f">
+
 Figure 1: Quiz Preview
